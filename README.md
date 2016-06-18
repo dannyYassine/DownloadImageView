@@ -1,7 +1,7 @@
 # DownloadImageView
 UIImageView subclass that downloads its image with a circular progress
 
-![](https://raw.githubusercontent.com/dannyYassine/DownloadImageView/gif_image_view.gif)
+![](https://raw.githubusercontent.com/dannyYassine/DownloadImageView/blob/master/gif_image_view.gif)
 
         self.imageView1.setDownloadTask(imageURLs[0],
             progress: { (progress) in
